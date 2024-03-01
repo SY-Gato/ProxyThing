@@ -1,7 +1,7 @@
 {
-  "name": "sodium-instance",
+  "name": "proxything-instance",
   "version": "2.0.0",
-  "description": "Sodium is a site used for evading internet censorship",
+  "description": "Yes",
   "type": "module",
   "engines": {
     "npm": ">=9.8.1",
@@ -13,7 +13,7 @@
   "keywords": [
     "proxy"
   ],
-  "author": "z1g Project",
+  "author": "SY-Gato",
   "license": "MIT",
   "dependencies": {
     "@tomphttp/bare-server-node": "^2.0.1",
